@@ -1,1 +1,1 @@
-# algorithms
+# Algorithms frequently asked in interviews.
