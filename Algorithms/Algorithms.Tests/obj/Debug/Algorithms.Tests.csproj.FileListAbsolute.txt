@@ -1,0 +1,5 @@
+C:\Learn\algorithms\Algorithms\Algorithms.Tests\bin\Debug\Algorithms.dll
+C:\Learn\algorithms\Algorithms\Algorithms.Tests\bin\Debug\Algorithms.pdb
+C:\Learn\algorithms\Algorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.csprojResolveAssemblyReference.cache
+C:\Learn\algorithms\Algorithms\Algorithms.Tests\obj\Debug\Algorithms.dll
+C:\Learn\algorithms\Algorithms\Algorithms.Tests\obj\Debug\Algorithms.pdb
